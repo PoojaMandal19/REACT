@@ -28,7 +28,7 @@ function App() {
       <div className='w-full h-screen bg-red-900 p-4'>
          <h1>{a}</h1>
       <button onClick={() => b(a + 1)} className='px-3 py-1 bg-green-500 rounded-md'>+</button>
-      <Product naam="value" age="25" data={{age:25 ,name:"harsh"}} />
+      <Product naam="value" age="30" data={{age:25 ,name:"harsh"}} />
       </div>
    )
 }
