@@ -28,3 +28,7 @@ const Card = (props) => {
 }
 
 export default Card
+
+/*git add project-using-props/
+git commit -m "Update project"
+git push origin main*/
